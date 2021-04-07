@@ -1,0 +1,13 @@
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.exe
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.deps.json
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.runtimeconfig.json
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.runtimeconfig.dev.json
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.dll
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\bin\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.pdb
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.csprojAssemblyReference.cache
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.AssemblyInfo.cs
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.dll
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.pdb
+C:\DEVELOPMENT\az204UdemySession8\AzureServiceBusAzureFunctions\obj\Debug\netcoreapp3.1\AzureServiceBusAzureFunctions.genruntimeconfig.cache

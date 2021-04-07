@@ -1,0 +1,24 @@
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.exe
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.deps.json
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.runtimeconfig.json
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.runtimeconfig.dev.json
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\queue-receive 4.pdb
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.csprojAssemblyReference.cache
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.AssemblyInfo.cs
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.csproj.CopyComplete
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.dll
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.pdb
+C:\DEVELOPMENT\az204UdemySession8\Service Bus - Queue - Receive 4\queue-receive\obj\Debug\netcoreapp3.1\queue-receive 4.genruntimeconfig.cache
