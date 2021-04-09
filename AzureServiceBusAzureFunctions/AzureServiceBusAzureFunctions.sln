@@ -27,6 +27,26 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "topic-send", "..\service bu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "topic - receive filters", "..\ServiceBusTopicFiltersreceive\Service Bus - Topic - Filters - 1\topic - receive\topic - receive filters.csproj", "{D55D91DD-691F-4C55-9044-E0D297CE9146}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function-EventGrid", "..\Function-EventGrid\Function-EventGrid\Function-EventGrid.csproj", "{D18D3CB3-E5B0-44FD-BA77-B4EE15C6847D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventGrid-Topic", "..\EventGrid-Topic\EventGrid-Topic\EventGrid-Topic.csproj", "{EFC69A5C-BA19-42B5-B07E-8BCC22D54EF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventhubs-send", "..\eventhubs-send\eventhubs-send\eventhubs-send.csproj", "{1E17F6A4-DA4A-4D51-88DB-CFEFBE6564E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventhub-receive", "..\eventhub-receive\eventhub-receive\eventhub-receive.csproj", "{8C6896D8-0530-4602-96C7-6237B79AEC14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventhub-receive - partitionkey", "..\eventhub-receive - Showing partition key\eventhub-receive\eventhub-receive - partitionkey.csproj", "{5ADF2866-EC15-4F69-8D14-D334DDBD2AD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventhubs-send-Partitionkey", "..\eventhubs-send - Sendtopartition\eventhubs-send\eventhubs-send-Partitionkey.csproj", "{6D7C3AFC-EF8E-46EA-82E5-9C61CD08DCAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventhub-receive-readoffset", "..\eventhub-receive - ReadOffset\eventhub-receive\eventhub-receive-readoffset.csproj", "{4F4974CE-4B37-4B0C-980B-CA90BFF883CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHub-Processor", "..\EventHub-Processor\EventHub-Processor\EventHub-Processor.csproj", "{2C6E7F9C-2DAC-418B-A235-B3054DFE7E9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "corewebapi", "..\corewebapi\corewebapi\corewebapi.csproj", "{F451B192-61A7-434B-B072-4921AEC8966B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "corewebapi-Swagger", "..\corewebapi - swagger\corewebapi\corewebapi-Swagger.csproj", "{82BCBDC6-9CB8-4686-96B0-E22600F53C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +101,46 @@ Global
 		{D55D91DD-691F-4C55-9044-E0D297CE9146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D55D91DD-691F-4C55-9044-E0D297CE9146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D55D91DD-691F-4C55-9044-E0D297CE9146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18D3CB3-E5B0-44FD-BA77-B4EE15C6847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18D3CB3-E5B0-44FD-BA77-B4EE15C6847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18D3CB3-E5B0-44FD-BA77-B4EE15C6847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18D3CB3-E5B0-44FD-BA77-B4EE15C6847D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC69A5C-BA19-42B5-B07E-8BCC22D54EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC69A5C-BA19-42B5-B07E-8BCC22D54EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC69A5C-BA19-42B5-B07E-8BCC22D54EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC69A5C-BA19-42B5-B07E-8BCC22D54EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E17F6A4-DA4A-4D51-88DB-CFEFBE6564E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E17F6A4-DA4A-4D51-88DB-CFEFBE6564E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E17F6A4-DA4A-4D51-88DB-CFEFBE6564E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E17F6A4-DA4A-4D51-88DB-CFEFBE6564E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6896D8-0530-4602-96C7-6237B79AEC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6896D8-0530-4602-96C7-6237B79AEC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6896D8-0530-4602-96C7-6237B79AEC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6896D8-0530-4602-96C7-6237B79AEC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADF2866-EC15-4F69-8D14-D334DDBD2AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADF2866-EC15-4F69-8D14-D334DDBD2AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADF2866-EC15-4F69-8D14-D334DDBD2AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADF2866-EC15-4F69-8D14-D334DDBD2AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7C3AFC-EF8E-46EA-82E5-9C61CD08DCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7C3AFC-EF8E-46EA-82E5-9C61CD08DCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7C3AFC-EF8E-46EA-82E5-9C61CD08DCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7C3AFC-EF8E-46EA-82E5-9C61CD08DCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4974CE-4B37-4B0C-980B-CA90BFF883CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4974CE-4B37-4B0C-980B-CA90BFF883CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4974CE-4B37-4B0C-980B-CA90BFF883CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4974CE-4B37-4B0C-980B-CA90BFF883CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6E7F9C-2DAC-418B-A235-B3054DFE7E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6E7F9C-2DAC-418B-A235-B3054DFE7E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6E7F9C-2DAC-418B-A235-B3054DFE7E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6E7F9C-2DAC-418B-A235-B3054DFE7E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F451B192-61A7-434B-B072-4921AEC8966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F451B192-61A7-434B-B072-4921AEC8966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F451B192-61A7-434B-B072-4921AEC8966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F451B192-61A7-434B-B072-4921AEC8966B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BCBDC6-9CB8-4686-96B0-E22600F53C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BCBDC6-9CB8-4686-96B0-E22600F53C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BCBDC6-9CB8-4686-96B0-E22600F53C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BCBDC6-9CB8-4686-96B0-E22600F53C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
